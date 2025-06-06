@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/kangxiaowen/code_lh_server/code_lh_pj_ai/pj_51_lighthope_ai_w002_empowerlove/wb_empowerlove_ai/src/app/layout\":[\"static/media/e4af272ccee01ff0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
