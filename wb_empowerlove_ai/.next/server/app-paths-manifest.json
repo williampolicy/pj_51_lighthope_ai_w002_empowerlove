@@ -1,4 +1,14 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js"
+  "/api/auth/session/route": "app/api/auth/session/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/api/register/route": "app/api/register/route.js",
+  "/assets/[type]/page": "app/assets/[type]/page.js",
+  "/assets/page": "app/assets/page.js",
+  "/community/page": "app/community/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/register/page": "app/register/page.js",
+  "/training/page": "app/training/page.js"
 }
